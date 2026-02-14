@@ -1,0 +1,9 @@
+/vendor/
+node_modules/
+.env
+database.php
+*.log
+*.zip
+.DS_Store
+config/database.php 
+admin/database.php 
